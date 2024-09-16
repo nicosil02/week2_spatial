@@ -23,4 +23,5 @@ Esta tarea consiste en la elaboración visual de mapas de Bolivia, que contienen
 ![Descripción de la imagen](data/boliviaMaps_4326.png)
 
 **Enlace a la tarea**: 
+
 **Enlace al archivo GeoPackage del mapa**: 
