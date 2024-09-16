@@ -24,4 +24,4 @@ Esta tarea consiste en la elaboración visual de mapas de Bolivia, que contienen
 
 **Enlace a la tarea**: https://nicosil02.github.io/week2_spatial/Challenge2_NicolasSilva.html
 
-**Enlace al archivo GeoPackage del mapa**: 
+**Enlace al archivo GeoPackage del mapa**: https://nicosil02.github.io/week2_spatial/data/boliviaMaps_4326.gpkg
