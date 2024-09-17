@@ -27,7 +27,7 @@ ___
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | **Puntos Azules**          | Representan las ubicaciones de los **aeropuertos** en Bolivia  |
 | **Líneas Rojas**           | Representan las principales **autopistas** que conectan diversas regiones de Bolivia  |
-| **Contornos Verde Oscuro** | Delimitan las **provincias** de Bolivia. Estos contornos dividen el territorio en unidades administrativas subnacionales, mostrando la estructura geopolítica del país |
+| **Contornos Verde Oscuro** | Delimitan las **provincias** de Bolivia |
 | **Relleno Verde Claro**    | Representa el **área geográfica** de Bolivia, cubriendo tanto sus áreas urbanas como rurales                                                                      |
 
 
