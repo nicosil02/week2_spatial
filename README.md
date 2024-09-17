@@ -32,6 +32,8 @@ ___
 
 ![Descripción de la imagen](data/boliviaMaps_4326.png)
 
+___
+
 **Enlace a la tarea**: https://nicosil02.github.io/week2_spatial/Challenge2_NicolasSilva.html
 
 **Enlace al archivo GeoPackage del mapa**: https://nicosil02.github.io/week2_spatial/data/boliviaMaps_4326.gpkg
