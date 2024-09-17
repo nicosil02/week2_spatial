@@ -31,7 +31,7 @@ ___
 | **Relleno Verde Claro**    | Representa el **área geográfica** de Bolivia, cubriendo tanto sus áreas urbanas como rurales                                                                      |
 
 
-![Descripción de la imagen](data/boliviaMaps_4326.png)
+![Mapa de Bolivia](data/boliviaMaps_4326.png)
 
 ___
 
