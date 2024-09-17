@@ -5,7 +5,7 @@
 
 Esta tarea consiste en la elaboración visual de mapas de Bolivia, que contienen información de las provincias, aeropuertos y carreteras del país. 
 
-### Contenido de la data 📈
+### **Contenido de la data** 📈
 ___
 - World_Countries: Mapa con las fronteras y delimitaciones de todos los países del mundo
 - World_railroad: Mapa con la distribución de los ríos a nivel mundial
@@ -14,14 +14,14 @@ ___
 
 ___
 
-### Diccionario de datos 📍
+### **Diccionario de datos** 📍
 
-| Variable     | Tipo     | Denominación                            | Valores                               |
+| **Variable**     | **Tipo**     | **Denominación**                            | **Valores**                               |
 |--------------|----------|-----------------------------------------|---------------------------------------|
 |    COUNTRY   | geometry | Pais                                    |  Bolivia                              |
 |   geometry   | geometry | Coordenadas geográficas                 |                                       |
 
-### Elementos del mapa 🧭🗺️
+### **Elementos del mapa** 🧭🗺️
 
 | Elemento                  | Descripción                                                                                                                         |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------------|
