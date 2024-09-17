@@ -23,7 +23,7 @@ ___
 
 ### **Elementos del mapa** 🧭🗺️
 
-| Elemento                  | Descripción                                                                                                                         |
+| **Elemento**                  | **Descripción**                                                                                                                         |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------------|
 | **Puntos Azules**          | Representan las ubicaciones de los **aeropuertos** en Bolivia  |
 | **Líneas Rojas**           | Representan las principales **autopistas** que conectan diversas regiones de Bolivia  |
