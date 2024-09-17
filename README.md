@@ -1,8 +1,19 @@
 # Challenge 1: Bolivia Spacial Data 🌍
 
 ### Alumno: Nicolas Silva Andujar (20200832)
+---------------------------------------------------------------------------
 
 Esta tarea consiste en la elaboración visual de mapas de Bolivia, que contienen información de las provincias, aeropuertos y carreteras del país. 
+
+--------------------------------------
+### Contenido de la data
+------------------------------------------------------------------------------------
+- World_Countries: Mapa con las fronteras y delimitaciones de todos los países del mundo
+- World_railroad: Mapa con la distribución de los ríos a nivel mundial
+- provincia: Mapa con la distribución geográfica de provincias en Bolivia
+- bo-airports.csv: Mapa con la ubicación de los aeropuertos en Bolivia
+
+------------------------------------------------------------------------------------
 
 ### Diccionario de datos 📍
 
